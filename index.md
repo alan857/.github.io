@@ -7,9 +7,12 @@ theme: jekyll-theme-cayman  # Change theme if needed
 
 
 ## Biography
-![Yong-Jie Liu](https://i.imgur.com/K3qUn90.jpg){: style="width: 250px; float: right; margin-left: 20px;"}
+![Yong-Jie Liu](315616.jpg){: style="width: 250px; float: right; margin-left: 20px;"}
 
-I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). My research interests encompass Simulation, Financial Statistical Methods, and Machine Learning & AI, with interdisciplinary applications in financial wealth and risk management.
+
+I am a first-year master's student at National Yang Ming Chiao Tung University, majoring in Information Management and Finance.  
+I have a strong interest in **securities research and industry analysis**, focusing on financial markets, corporate valuation, and economic trends.  
+
 
 
 💻 GitHub: [alan857](https://github.com/alan857)  
